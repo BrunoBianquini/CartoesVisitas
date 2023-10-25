@@ -32,7 +32,7 @@ descricao = Console.ReadLine();
 Console.WriteLine("|-------------------------------|");
 Console.WriteLine("|" + nome + "  |");
 Console.WriteLine("|" + profissao + "  |");
-Console.WriteLine("| Tel:" + telefone + "|");
+Console.WriteLine("| Tele:" + telefone + "|");
 Console.WriteLine("| Email: " + email + " |");
 Console.WriteLine("|  " + descricao + " | ");
 Console.WriteLine("|-------------------------------|");
